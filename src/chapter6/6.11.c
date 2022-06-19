@@ -16,5 +16,6 @@ void main()
         ptr++;    
     }
     printf("\n");
+
 }
 
